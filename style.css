@@ -1,0 +1,29 @@
+body {
+  background: #0b1026;
+  font-size: 18px;
+  color: #e6ecff;
+  text-align: center;
+}
+
+header {
+  background: #111a3d;
+  border: 2px solid #89a8ff;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+main {
+  background: #0b1026;
+}
+h2{
+  color: #ffd36e;
+  font-size: 28px;
+}
+a {
+  color: #7dd3fc;
+}
+img {
+  border: 3px solid #89a8ff;
+}
